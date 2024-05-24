@@ -1,6 +1,6 @@
 # JJBot
 
-A bot for my choir GroupMe 
+A GroupMe bot for my choir
 
 ## Features
 - Birthday wishes
